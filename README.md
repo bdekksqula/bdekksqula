@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @bdekksqula
+- 👀 I’m interested in python
+- 📫 How to reach me bram@squla.com
